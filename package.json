@@ -4,7 +4,8 @@
   "description": "## Data Modeling With NoSQL Databases",
   "main": "index.js",
   "scripts": {
-    "test": "jest --coverage --verbose"
+    "test": "jest --coverage --verbose",
+    "lint": "eslint '**/*.js' "
   },
   "repository": {
     "type": "git",
